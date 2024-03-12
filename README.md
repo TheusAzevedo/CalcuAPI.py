@@ -1,2 +1,1 @@
-# CalcuAPI.py
-Calculadora básica funcional, escrita em Python
+Calculadora básica funcional, escrita em Python Estou aprendendo a trabalhar com Python, sou programador júnior e desejo ingressar em alguma empresa como trainee para desenvolver minhas habilidades. Caso alguma empresa se interessar deixarei meus meios de contato Email: matheusdiasdeazevedo@hotmail.com
